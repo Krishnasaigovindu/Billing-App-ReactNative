@@ -1,0 +1,30 @@
+﻿Starting project at C:\Users\krish\Downloads\Billing-App-ReactNative-main\Billing-App-ReactNative-main
+Starting Metro Bundler
+node.exe : CommandError: 
+"react-native-web" is 
+added as a dependency in 
+your project's 
+package.json but it 
+doesn't seem to be 
+installed. Run "npm 
+install", or the 
+equivalent for your 
+package manager, and try 
+again.
+At line:1 char:1
++ & "C:\Program 
+Files\nodejs/node.exe" "C:
+\Users\krish\AppData\Roami
+ng\ ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo        
+      : NotSpecified: (C  
+  ommandError: "... and   
+  try again.:String) [    
+], RemoteException
+    + FullyQualifiedError 
+   Id : NativeCommandErr  
+  or
+ 
